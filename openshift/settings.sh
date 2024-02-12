@@ -1,5 +1,5 @@
-export PROJECT_NAMESPACE="01a527"
-export GIT_URI="https://github.com/bcgov/sheriff-scheduling.git"
+export PROJECT_NAMESPACE="ac1cc8"
+export GIT_URI="https://github.com/bcgov/court-admin-scheduling.git"
 export GIT_REF="master"
 
 # The templates that should not have their GIT referances(uri and ref) over-ridden
